@@ -1,0 +1,32 @@
+main {
+  text-align: right;
+  vertical-align: top;
+  line-height: 7.5vh;
+  font-family: 'Cormorant';
+}
+
+body {
+  background-color: #79a9a9;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 26px
+}
+
+#stat {
+  text-align: center;
+  font-size: 30px;
+}
+
+#outp {
+  font-size: 20px;
+}
