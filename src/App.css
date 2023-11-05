@@ -1,5 +1,5 @@
 main {
-  text-align: right;
+  text-align: center;
   vertical-align: top;
   line-height: 7.5vh;
   font-family: 'Cormorant';
@@ -28,5 +28,14 @@ h3 {
 }
 
 #outp {
+  text-align: left;
   font-size: 20px;
+}
+
+#approval {
+  text-align: left;
+}
+
+#info-container {
+  text-align: left;
 }
